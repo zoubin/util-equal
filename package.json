@@ -1,6 +1,6 @@
 {
   "name": "util-equal",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Utils for checking file contents",
   "main": "index.js",
   "directories": {
