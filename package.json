@@ -1,0 +1,34 @@
+{
+  "name": "util-equal",
+  "version": "0.0.1",
+  "description": "Utils for checking file contents",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "eslint . && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/util-equal.git"
+  },
+  "keywords": [
+    "file",
+    "stream",
+    "equal"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/util-equal/issues"
+  },
+  "homepage": "https://github.com/zoubin/util-equal#readme",
+  "dependencies": {
+    "sink-transform": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.4.2",
+    "tap": "^1.4.1"
+  }
+}
